@@ -55,7 +55,7 @@ Equipping accessories gives points. The points depend on what accessory.
  Using an eye spawner gives 20p but only when on the surface. We could try to string rewards to force this by making the ai warp home, then pop it for them.
 Attacks that hit enemies are rewarded. Hitting a boss even moreso. Missed attacks may be decremented but this may scare the AI from trying to attack.
 Killing the eye of Cthulhu will give 1000 points. This is the final goal of the program so this will be a highly rewarded solution.
-This may be complicated but giving the AI points for going deeper is a good idea.
+This may be complicated but giving the AI points for going deeper is probably a good idea.
 
 Decrements
 Idling gives -0.01p per full second of no input.
