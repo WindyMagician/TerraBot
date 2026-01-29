@@ -66,7 +66,7 @@ Trashing a good weapon is -50p
 The inventory space, if maxed out, will decrease 0.1p per second when it is full.
 Dropping a good item will decrease points.
 
-It is worth noting a lot of this is due to change. Tweaks will need to be made, issues will be encountered, etc. This is just "the plan."
+It is worth noting a lot of this is due to change. Tweaks will need to be made, issues will be encountered, etc. This is just the plan.
 
 
 
