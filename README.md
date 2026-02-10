@@ -23,7 +23,6 @@ The bot used to complete these attempts will be named KidBot#, each iteration of
 KidBot1-2: Miscreated bots.
 KidBot3: Journey Mode Bot for simple movement from Python and screen capture testing.
 
-
 The following are the most simple and needed items for an AI to be able to beat the Eye of Cthulhu. This should be seen as a no more situation. These are the minimal items a player has to have to beat this boss, and what I would consider the least needed for a successful defeat in normal mode.
 
 4-6 Heart Crystals
